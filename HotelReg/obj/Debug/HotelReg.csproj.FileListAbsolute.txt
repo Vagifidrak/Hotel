@@ -1,0 +1,15 @@
+C:\Users\МММ\source\repos\HotelReg\HotelReg\obj\Debug\HotelReg.csprojAssemblyReference.cache
+C:\Users\МММ\source\repos\HotelReg\HotelReg\obj\Debug\HotelReg.FrmHotel.resources
+C:\Users\МММ\source\repos\HotelReg\HotelReg\obj\Debug\HotelReg.Properties.Resources.resources
+C:\Users\МММ\source\repos\HotelReg\HotelReg\obj\Debug\HotelReg.csproj.GenerateResource.cache
+C:\Users\МММ\source\repos\HotelReg\HotelReg\bin\Debug\HotelReg.exe.config
+C:\Users\МММ\source\repos\HotelReg\HotelReg\bin\Debug\HotelReg.exe
+C:\Users\МММ\source\repos\HotelReg\HotelReg\bin\Debug\HotelReg.pdb
+C:\Users\МММ\source\repos\HotelReg\HotelReg\bin\Debug\EntityFramework.dll
+C:\Users\МММ\source\repos\HotelReg\HotelReg\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\МММ\source\repos\HotelReg\HotelReg\bin\Debug\EntityFramework.xml
+C:\Users\МММ\source\repos\HotelReg\HotelReg\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\МММ\source\repos\HotelReg\HotelReg\obj\Debug\HotelReg.csproj.CopyComplete
+C:\Users\МММ\source\repos\HotelReg\HotelReg\obj\Debug\HotelReg.exe
+C:\Users\МММ\source\repos\HotelReg\HotelReg\obj\Debug\HotelReg.pdb
+C:\Users\МММ\source\repos\HotelReg\HotelReg\obj\Debug\HotelReg.WorkerPanel.resources
